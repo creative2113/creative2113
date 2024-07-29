@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @creative2113
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm Scott King! 👋
 
-<!---
-creative2113/creative2113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a full stack engineer on a mission to tackle complex real-world problems. My journey so far:
+
+- 🎓 Bachelor's in Computer Science from Baylor University (Jan 2016 - Dec 2019)
+- 💼 Fullstack Developer at ICPC Foundation, working with Java Spring Boot and ReactJS
+- 👨‍💻 Senior Software Engineer at Samsung Research Bangladesh (SRBD), specializing in Bluetooth protocols and Microservices
+- 🌐 Junior Fullstack Developer at Divine IT Limited, gaining diverse web development experience
+
+## Tech Stack 🚀
+
+- **Languages**: C, C++, Python, JavaScript, Java, HTML, CSS, Bash, TypeScript
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Frameworks**: Spring Boot, Django, ReactJS, FreeRTOS, Bootstrap
+- **Tools**: Git, Docker, Postman, AWS (EC2, S3, CloudWatch), GCP, Kafka, Jira
+
+## Portfolio 🌐
