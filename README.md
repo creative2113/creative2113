@@ -1,4 +1,4 @@
-# Hi there, I'm Scott King! 👋
+# Hi there, I'm Andrii! 👋
 
 I'm a full stack engineer on a mission to tackle complex real-world problems. My journey so far:
 
