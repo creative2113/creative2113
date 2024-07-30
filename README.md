@@ -1,4 +1,4 @@
-# Hi there, I'm Andrii! 👋
+# Hi there, I'm a Full Stack Engineer! 👋
 
 I'm a full stack engineer on a mission to tackle complex real-world problems. My journey so far:
 
