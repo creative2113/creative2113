@@ -165,7 +165,7 @@ Machine Learning
   </tr>
 </table>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=creative2113&show_icons=true&locale=en&layout=compact" alt="creative2113" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=creative2113&show_icons=true&locale=en" alt="creative2113" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=creative2113&show_icons=true&locale=en&layout=compact" alt="creative2113" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=creative2113&show_icons=true&locale=en" alt="creative2113" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=creative2113&" alt="creative2113" /></p>
 
