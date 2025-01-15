@@ -167,6 +167,9 @@ Machine Learning
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=creative2113&show_icons=true&locale=en&layout=compact" alt="creative2113" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=creative2113&show_icons=true&locale=en" alt="creative2113" /></p>
 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=creative2113&theme=algolia" />
+</p>
 <hr>
 
 ## Portfolio 🌐
