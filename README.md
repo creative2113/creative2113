@@ -1,28 +1,23 @@
-# Hi there, I'm a Full Stack Engineer! 👋
+# Hi there, I'm a Senior Full Stack Engineer! 👋
 <hr />
 <h2>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="145" height="145" alt="Laravel" />
-  <img src="https://skillicons.dev/icons?i=react" width="145" height="145" alt="React" />
-  <img src="https://skillicons.dev/icons?i=vue" width="145" height="145" alt="Vue" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="145" height="145" alt="Node" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="145" height="145" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="145" height="145" alt="Vue" />
 </h2>
 <hr />
-I'm a full stack engineer on a mission to tackle complex real-world problems. My
+I'm a senior full stack engineer on a mission to tackle complex real-world problems. My
 journey so far:
 
-- 🎓 AI developer, working with Python, Machine Learning, Chat BOT, BOT API
-- 💼 Senior Fullstack Developer, working with ReactJS, VueJS, NextJS, NuxtJS
-- 👨‍💻 Middle Level Full stack developer, specializing in Bluetooth protocols
-and Microservices
-- 🌐 Junior Fullstack Developer at Divine IT Limited, gaining diverse web
-development experience
+- 💼 Senior Fullstack Developer, working with NodeJS, ReactJS, VueJS, NextJS, NuxtJS
+- 👨‍💻 Middle Level Full stack developer, specializing in Bluetooth protocols and Microservices
+- 🌐 Frontend Developer gaining diverse web development experience
 
 ## Tech Stack 🚀
 
-- **Languages**: C, C++, C#, Python, PHP, JavaScript, TypeScript, Java, HTML,
-CSS, Bash
+- **Languages**: C, C++, Python, PHP, JavaScript, TypeScript, HTML, CSS
 - **Databases**: MySQL, PostgreSQL, MongoDB
-- **Frameworks**: ReactJS, Nextjs, Vuejs, Nuxtjs, Django, Laravel, Tailwind CSS,
-Machine Learning
+- **Frameworks**: ReactJS, Nextjs, Vuejs, Nuxtjs, Django, Laravel, Tailwind CSS, Machine Learning, Flask
 - **Tools**: Git, Docker, Postman, AWS (EC2, S3, CloudWatch), GCP, Kafka, Jira
 
 <table align="center">
@@ -176,8 +171,3 @@ Machine Learning
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=creative2113&show_icons=true&locale=en" alt="creative2113" />
 </p>
-<hr>
-
-## Portfolio 🌐
-
-- I am updating Portfolio now
