@@ -1,9 +1,9 @@
 # Hi there, I'm a Full Stack Engineer! 👋
 <hr />
 <h2>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="145" height="145" alt="Laravel" />
-  <img src="https://skillicons.dev/icons?i=react" width="145" height="145" alt="React" />
-  <img src="https://skillicons.dev/icons?i=vue" width="145" height="145" alt="Vue" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="145" height="145" alt="Node" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="145" height="145" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="145" height="145" alt="Vue" />
 </h2>
 <hr />
 I'm a full stack engineer on a mission to tackle complex real-world problems. My
