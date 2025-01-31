@@ -6,17 +6,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="145" height="145" alt="Vue" />
 </h2>
 <hr />
-I'm a senior full stack engineer on a mission to tackle complex real-world problems. My
-journey so far:
 
-- 💼 Senior Fullstack Developer, working with NodeJS, ReactJS, VueJS, NextJS, NuxtJS
-- 👨‍💻 Middle Level Full stack developer, specializing in Bluetooth protocols and Microservices
-- 🌐 Frontend Developer gaining diverse web development experience
+## I'm a senior full stack engineer on a mission to tackle complex real-world problems.
 
 ## Tech Stack 🚀
 
-- **Languages**: C, C++, Python, PHP, JavaScript, TypeScript, HTML, CSS
-- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Languages**: C, C++, JavaScript, TypeScript, HTML, CSS, Python, PHP, 
+- **Databases**: MySQL, PostgreSQL, MongoDB, Firebase, Supabase
 - **Frameworks**: ReactJS, Nextjs, Vuejs, Nuxtjs, Django, Laravel, Tailwind CSS, Machine Learning, Flask
 - **Tools**: Git, Docker, Postman, AWS (EC2, S3, CloudWatch), GCP, Kafka, Jira
 
