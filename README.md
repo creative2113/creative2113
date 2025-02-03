@@ -2,23 +2,23 @@
 
 <hr />
 
-## Backend Skills
+## Backend Main Skills
 
 <h3 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="145" height="145" alt="Node" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="145" height="145" alt="php" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="145" height="145" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="145" height="145" alt="csharp" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="145" height="145" alt="java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="150" height="150" alt="Node" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="150" height="150" alt="php" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="150" height="150" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="150" height="150" alt="csharp" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="150" height="150" alt="java" />
 </h3>
 
-## Frontend Skills
+## Frontend Main Skills
 
 <h3 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="145" height="145" alt="React" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="145" height="145" alt="Vue" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="145" height="145" alt="React Native" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="145" height="145" alt="flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="150" height="150" alt="React" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="150" height="150" alt="Vue" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="140" height="140" alt="React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="150" height="150" alt="flutter" />
 </h3>
 
 <hr />
@@ -27,7 +27,7 @@
 
 ## Tech Stack 🚀
 
-- **Languages**: C, C++, JavaScript, TypeScript, HTML, CSS, Python, PHP, 
+- **Languages**: C, C#, C++, JavaScript, TypeScript, HTML, CSS, Python, PHP, 
 - **Databases**: MySQL, PostgreSQL, MongoDB, Firebase, Supabase
 - **Frameworks**: ReactJS, Nextjs, Vuejs, Nuxtjs, Django, Laravel, Tailwind CSS, Machine Learning, Flask
 - **Tools**: Git, Docker, Postman, AWS (EC2, S3, CloudWatch), GCP, Kafka, Jira
