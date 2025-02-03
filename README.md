@@ -1,14 +1,26 @@
 # Hi there, I'm a Senior Full Stack Engineer! 👋
+
 <hr />
-<h2 align="center">
+
+## Backend Skills
+
+<h3 align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="145" height="145" alt="Node" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="145" height="145" alt="php" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="145" height="145" alt="python" />
-  <span style="font-size: '50px';">+</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="145" height="145" alt="csharp" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="145" height="145" alt="java" />
+</h3>
+
+## Frontend Skills
+
+<h3 align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="145" height="145" alt="React" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="145" height="145" alt="Vue" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="145" height="145" alt="React Native" /> 
-</h2>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="145" height="145" alt="React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="145" height="145" alt="flutter" />
+</h3>
+
 <hr />
 
 ## I'm a senior full stack engineer on a mission to tackle complex real-world problems.
