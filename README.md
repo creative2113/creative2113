@@ -1,182 +1,71 @@
 # Hi there, I'm a Senior Full Stack Engineer! 👋
 
-<hr />
 
-## Backend Main Skills
 
-<h3 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="150" height="150" alt="Node" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="150" height="150" alt="php" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="150" height="150" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="150" height="150" alt="csharp" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="150" height="150" alt="java" />
-</h3>
-
-## Frontend Main Skills
+## Frontend Languages
 
 <h3 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="150" height="150" alt="React" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="150" height="150" alt="Vue" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="140" height="140" alt="React Native" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="150" height="150" alt="flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="150" height="150" alt="HTML5" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="150" height="150" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="140" height="140" alt="Javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="140" height="140" alt="Typescript" />
 </h3>
 
-<hr />
+## Backend Languages
 
-## I'm a senior full stack engineer on a mission to tackle complex real-world problems.
+<h3 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="100" height="100" alt="Node" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="100" height="100" alt="php" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100" height="100" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="100" height="100" alt="csharp" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100" height="100" alt="java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" width="100" height="100" alt="Ruby" />
+</h3>
 
-## Tech Stack 🚀
+## Frameworks
 
-- **Languages**: C, C#, C++, JavaScript, TypeScript, HTML, CSS, Python, PHP, 
-- **Databases**: MySQL, PostgreSQL, MongoDB, Firebase, Supabase
-- **Frameworks**: ReactJS, Nextjs, Vuejs, Nuxtjs, Django, Laravel, Tailwind CSS, Machine Learning, Flask
-- **Tools**: Git, Docker, Postman, AWS (EC2, S3, CloudWatch), GCP, Kafka, Jira
+<h3 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="120" height="120" alt="React" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="120" height="120" alt="Vue" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="120" height="120" alt="Next" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" width="120" height="120" alt="Nuxt" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="120" height="120" alt="Angular" />
+</h3>
 
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=javascript" alt="Javascript"
-        width="45" height="45" />
-      <br>Javascript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=typescript" alt="Typescript"
-        width="45" height="45" />
-      <br>Typescript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" alt="React" width="45"
-        height="45" />
-      <br>React
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45"
-        alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vue" width="45" height="45"
-        alt="Vue" />
-      <br>Vue
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45"
-        alt="Nuxt.js" />
-      <br>Nuxt.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45"
-        alt="Angular" />
-      <br>Angular
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45"
-        alt="Three.js" />
-      <br>Three.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css" width="45" height="45"
-        alt="Three.js" />
-      <br>CSS
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45"
-        alt="Laravel" />
-      <br>NodeJS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="45" height="45"
-        alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nest" width="45" height="45"
-        alt="Express" />
-      <br>Nest
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45"
-        alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45"
-        alt="rails" />
-      <br>WordPress
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python" width="45" height="45"
-        alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=django" alt="icon" width="45"
-        height="45" />
-      <br>Django
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45"
-        alt="mysql" />
-      <br>MySQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45"
-        alt="php" />
-      <br>Mongo
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img
-        src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true"
-        height="45">
-      <br>NFT
-    </td>
-    <td align="center" width="90">
-      <img
-        src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true"
-        height="45">
-      <br>DeFi
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45"
-        alt="Solidity" />
-      <br>Solidity
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45"
-        alt="Rust" />
-      <br>Rust
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=go" width="45" height="45"
-        alt="php" />
-      <br>Go
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=aws" width="45" height="45"
-        alt="Flutter" />
-      <br>AWS
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg"
-        alt="icon" width="45" height="45" />
-      <br>RestAPI
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45"
-        alt="Flutter" />
-      <br>FastAPI
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45"
-        alt="Flutter" />
-      <br>Tailwind CSS
-    </td>
-  </tr>
-</table>
+<h3 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="100" height="100" alt="Express" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="100" height="100" alt="Nest" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="100" height="100" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="100" height="100" alt="django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" width="100" height="100" alt="Dot net" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="100" height="100" alt="Tailwind CSS" />
+</h3>
+
+## Databases
+
+<h3 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="100" height="100" alt="Mysql" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="100" height="100" alt="Postgresql" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="100" height="100" alt="Azure" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="100" height="100" alt="Mongodb" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="100" height="100" alt="Firebase" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="100" height="100" alt="googlecloud" /> 
+</h3>
+
+## Others
+
+<h3 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="100" height="100" alt="fastapi" /> 
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="100" height="100" alt="RestAPI" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="100" height="100" alt="graphql" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="100" height="100" alt="jest" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="100" height="100" alt="git" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="100" height="100" alt="github" /> 
+</h3>
+
+### I'm a senior full stack engineer on a mission to tackle complex real-world problems.
+
+
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=creative2113&theme=algolia" />
